@@ -1,0 +1,14 @@
+D:\chuyen_tu_o_c\Du_Lieu_xampp\khoa_fontend_react\Thuc_tap_12_07_2024\Cau_truc_du_lieu_GT\su_dung_set\bin\Debug\net8.0\su_dung_set.exe
+D:\chuyen_tu_o_c\Du_Lieu_xampp\khoa_fontend_react\Thuc_tap_12_07_2024\Cau_truc_du_lieu_GT\su_dung_set\bin\Debug\net8.0\su_dung_set.deps.json
+D:\chuyen_tu_o_c\Du_Lieu_xampp\khoa_fontend_react\Thuc_tap_12_07_2024\Cau_truc_du_lieu_GT\su_dung_set\bin\Debug\net8.0\su_dung_set.runtimeconfig.json
+D:\chuyen_tu_o_c\Du_Lieu_xampp\khoa_fontend_react\Thuc_tap_12_07_2024\Cau_truc_du_lieu_GT\su_dung_set\bin\Debug\net8.0\su_dung_set.dll
+D:\chuyen_tu_o_c\Du_Lieu_xampp\khoa_fontend_react\Thuc_tap_12_07_2024\Cau_truc_du_lieu_GT\su_dung_set\bin\Debug\net8.0\su_dung_set.pdb
+D:\chuyen_tu_o_c\Du_Lieu_xampp\khoa_fontend_react\Thuc_tap_12_07_2024\Cau_truc_du_lieu_GT\su_dung_set\obj\Debug\net8.0\su_dung_set.GeneratedMSBuildEditorConfig.editorconfig
+D:\chuyen_tu_o_c\Du_Lieu_xampp\khoa_fontend_react\Thuc_tap_12_07_2024\Cau_truc_du_lieu_GT\su_dung_set\obj\Debug\net8.0\su_dung_set.AssemblyInfoInputs.cache
+D:\chuyen_tu_o_c\Du_Lieu_xampp\khoa_fontend_react\Thuc_tap_12_07_2024\Cau_truc_du_lieu_GT\su_dung_set\obj\Debug\net8.0\su_dung_set.AssemblyInfo.cs
+D:\chuyen_tu_o_c\Du_Lieu_xampp\khoa_fontend_react\Thuc_tap_12_07_2024\Cau_truc_du_lieu_GT\su_dung_set\obj\Debug\net8.0\su_dung_set.csproj.CoreCompileInputs.cache
+D:\chuyen_tu_o_c\Du_Lieu_xampp\khoa_fontend_react\Thuc_tap_12_07_2024\Cau_truc_du_lieu_GT\su_dung_set\obj\Debug\net8.0\su_dung_set.dll
+D:\chuyen_tu_o_c\Du_Lieu_xampp\khoa_fontend_react\Thuc_tap_12_07_2024\Cau_truc_du_lieu_GT\su_dung_set\obj\Debug\net8.0\refint\su_dung_set.dll
+D:\chuyen_tu_o_c\Du_Lieu_xampp\khoa_fontend_react\Thuc_tap_12_07_2024\Cau_truc_du_lieu_GT\su_dung_set\obj\Debug\net8.0\su_dung_set.pdb
+D:\chuyen_tu_o_c\Du_Lieu_xampp\khoa_fontend_react\Thuc_tap_12_07_2024\Cau_truc_du_lieu_GT\su_dung_set\obj\Debug\net8.0\su_dung_set.genruntimeconfig.cache
+D:\chuyen_tu_o_c\Du_Lieu_xampp\khoa_fontend_react\Thuc_tap_12_07_2024\Cau_truc_du_lieu_GT\su_dung_set\obj\Debug\net8.0\ref\su_dung_set.dll

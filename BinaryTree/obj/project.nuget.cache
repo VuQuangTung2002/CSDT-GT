@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "5WhETZVnEUjcetRiVMrdkxoFRf6adYpEwLVlFBkLglTngwrs0nYLuxO6eBWDlvykviYQI3w/V5UONth7DA7TlQ==",
+  "success": true,
+  "projectFilePath": "D:\\chuyen_tu_o_c\\Du_Lieu_xampp\\khoa_fontend_react\\Thuc_tap_12_07_2024\\Cau_truc_du_lieu_GT\\BinaryTree\\BinaryTree.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Dell Latitude 5420\\.nuget\\packages\\elasticsearch.net\\7.17.5\\elasticsearch.net.7.17.5.nupkg.sha512",
+    "C:\\Users\\Dell Latitude 5420\\.nuget\\packages\\microsoft.csharp\\4.6.0\\microsoft.csharp.4.6.0.nupkg.sha512",
+    "C:\\Users\\Dell Latitude 5420\\.nuget\\packages\\system.buffers\\4.5.1\\system.buffers.4.5.1.nupkg.sha512",
+    "C:\\Users\\Dell Latitude 5420\\.nuget\\packages\\system.diagnostics.diagnosticsource\\5.0.0\\system.diagnostics.diagnosticsource.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
